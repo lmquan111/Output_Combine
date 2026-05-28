@@ -1,0 +1,19 @@
+================= MOEA/D-AWS: lrc207 =================
+Final Elite with Dynamics: 
+Individual{TOC=2839.5514944124916, NV=8}
+    Route 1: 181 -> 46 -> 13 -> 11 -> 15 -> 12 -> 8 -> 74 -> 51 -> 85 -> 181
+    Route 1: TotalDis 83.96 TotalStatic 99.85 TotalDynamic 0.00 TimeLate 0.01 TimeEarly 2.25 TRUE
+    Route 2: 181 -> 44 -> 1 -> 45 -> 5 -> 87 -> 97 -> 16 -> 14 -> 10 -> 9 -> 86 -> 58 -> 73 -> 57 -> 56 -> 98 -> 96 -> 76 -> 23 -> 178
+    Route 2: TotalDis 250.45 TotalStatic 208.76 TotalDynamic 61.10 TimeLate 0.00 TimeEarly 3.49 TRUE
+    Route 3: 178 -> 94 -> 22 -> 65 -> 50 -> 55 -> 83 -> 49 -> 93 -> 79 -> 91 -> 31 -> 33 -> 178
+    Route 3: TotalDis 264.19 TotalStatic 149.70 TotalDynamic 42.78 TimeLate 0.45 TimeEarly 1.00 TRUE
+    Route 4: 178 -> 70 -> 53 -> 80 -> 34 -> 35 -> 41 -> 43 -> 42 -> 95 -> 67 -> 69 -> 0 -> 2 -> 100 -> 178
+    Route 4: TotalDis 220.88 TotalStatic 160.65 TotalDynamic 32.74 TimeLate 0.48 TimeEarly 5.74 TRUE
+    Route 5: 178 -> 4 -> 3 -> 7 -> 6 -> 99 -> 54 -> 78 -> 59 -> 72 -> 77 -> 52 -> 89 -> 178
+    Route 5: TotalDis 219.48 TotalStatic 173.51 TotalDynamic 24.91 TimeLate 0.02 TimeEarly 7.29 TRUE
+    Route 6: 174 -> 81 -> 64 -> 82 -> 101 -> 24 -> 20 -> 21 -> 47 -> 18 -> 48 -> 19 -> 17 -> 63 -> 88 -> 90 -> 92 -> 178
+    Route 6: TotalDis 196.71 TotalStatic 162.98 TotalDynamic 55.99 TimeLate 0.07 TimeEarly 5.11 TRUE
+    Route 7: 174 -> 66 -> 71 -> 36 -> 37 -> 40 -> 38 -> 39 -> 60 -> 68 -> 174
+    Route 7: TotalDis 86.49 TotalStatic 129.33 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 3.60 TRUE
+    Route 8: 182 -> 75 -> 62 -> 84 -> 61 -> 32 -> 29 -> 27 -> 25 -> 30 -> 28 -> 26 -> 183
+    Route 8: TotalDis 130.15 TotalStatic 168.22 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 4.37 TRUE

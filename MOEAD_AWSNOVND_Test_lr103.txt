@@ -1,0 +1,25 @@
+================= MOEA/D-AWS: lr103 =================
+Final Elite with Dynamics: 
+Individual{TOC=5640.706026344227, NV=11}
+    Route 1: 196 -> 59 -> 85 -> 15 -> 98 -> 95 -> 92 -> 43 -> 99 -> 97 -> 93 -> 37 -> 197
+    Route 1: TotalDis 182.26 TotalStatic 152.78 TotalDynamic 36.20 TimeLate 4.24 TimeEarly 1.28 TRUE
+    Route 2: 196 -> 91 -> 96 -> 41 -> 42 -> 56 -> 1 -> 40 -> 21 -> 39 -> 196
+    Route 2: TotalDis 63.18 TotalStatic 112.41 TotalDynamic 0.00 TimeLate 3.19 TimeEarly 0.00 TRUE
+    Route 3: 196 -> 52 -> 100 -> 73 -> 22 -> 55 -> 38 -> 25 -> 54 -> 103 -> 53 -> 11 -> 197
+    Route 3: TotalDis 139.20 TotalStatic 153.28 TotalDynamic 24.07 TimeLate 2.02 TimeEarly 5.23 TRUE
+    Route 4: 196 -> 78 -> 77 -> 32 -> 80 -> 49 -> 8 -> 70 -> 64 -> 19 -> 29 -> 196
+    Route 4: TotalDis 86.92 TotalStatic 112.62 TotalDynamic 0.00 TimeLate 5.78 TimeEarly 1.24 TRUE
+    Route 5: 196 -> 26 -> 89 -> 101 -> 62 -> 61 -> 102 -> 87 -> 18 -> 48 -> 6 -> 51 -> 47 -> 35 -> 197
+    Route 5: TotalDis 176.65 TotalStatic 163.52 TotalDynamic 27.59 TimeLate 7.47 TimeEarly 0.45 TRUE
+    Route 6: 196 -> 17 -> 7 -> 44 -> 82 -> 16 -> 83 -> 4 -> 60 -> 5 -> 84 -> 58 -> 90 -> 36 -> 94 -> 13 -> 12 -> 86 -> 14 -> 197
+    Route 6: TotalDis 203.06 TotalStatic 263.27 TotalDynamic 0.00 TimeLate 15.42 TimeEarly 1.59 TRUE
+    Route 7: 197 -> 57 -> 72 -> 74 -> 71 -> 20 -> 66 -> 3 -> 24 -> 197
+    Route 7: TotalDis 203.87 TotalStatic 107.55 TotalDynamic 0.00 TimeLate 20.68 TimeEarly 0.00 TRUE
+    Route 8: 197 -> 23 -> 79 -> 67 -> 28 -> 27 -> 76 -> 2 -> 75 -> 197
+    Route 8: TotalDis 172.17 TotalStatic 112.41 TotalDynamic 0.00 TimeLate 12.61 TimeEarly 0.00 TRUE
+    Route 9: 197 -> 33 -> 34 -> 50 -> 0 -> 197
+    Route 9: TotalDis 147.51 TotalStatic 64.59 TotalDynamic 0.00 TimeLate 2.12 TimeEarly 0.00 TRUE
+    Route 10: 197 -> 65 -> 68 -> 69 -> 31 -> 9 -> 30 -> 197
+    Route 10: TotalDis 174.06 TotalStatic 109.03 TotalDynamic 0.00 TimeLate 11.60 TimeEarly 0.00 TRUE
+    Route 11: 197 -> 63 -> 10 -> 46 -> 81 -> 45 -> 88 -> 197
+    Route 11: TotalDis 208.03 TotalStatic 78.22 TotalDynamic 0.00 TimeLate 16.18 TimeEarly 0.00 TRUE
